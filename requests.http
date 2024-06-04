@@ -1,0 +1,4 @@
+### Abruf der Kunden blocking
+GET http://localhost:8080/customer
+### Abruf der Kunden virtual threads
+GET http://localhost:8080/customer/virtual
